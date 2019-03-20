@@ -4,7 +4,7 @@ import time
 class EnquiryFormHelper():
 
     #__url = "http://blazedemo.com/"
-    __url = "https://52.25.64.193/front/default/newhome"
+    __url = "https://shoesonloose.com"
 
     def Open(self):
         self._web.open(self.__url)
